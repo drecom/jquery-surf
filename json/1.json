@@ -1,0 +1,27 @@
+[
+  {
+    user_name: 'User1',
+    profile_image: './images/poncan.gif',
+    rank: 1
+  },
+  {
+    user_name: 'User2',
+    profile_image: './images/poncan.gif',
+    rank: 2
+  },
+  {
+    user_name: 'User3',
+    profile_image: './images/poncan.gif',
+    rank: 3
+  },
+  {
+    user_name: 'User4',
+    profile_image: './images/poncan.gif',
+    rank: 4
+  },
+  {
+    user_name: 'User5',
+    profile_image: './images/poncan.gif',
+    rank: 5
+  }
+]
